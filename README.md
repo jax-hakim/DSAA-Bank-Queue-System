@@ -28,7 +28,6 @@ This project simulates a bank queue management system with two customer categori
 
 ## Project Structure
 
-```text
 DSAA-Bank-Queue-System/
 ├── README.md
 ├── .gitignore
@@ -44,7 +43,6 @@ DSAA-Bank-Queue-System/
                 ├── QueueEmptyException.java
                 ├── QueueFullException.java
                 └── QueueOverflowException.java
-```
 
 ## Requirements
 
